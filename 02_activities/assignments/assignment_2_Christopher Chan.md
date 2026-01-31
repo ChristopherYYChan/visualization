@@ -13,7 +13,7 @@
       Your answer...
 
       For the good one: 
-      [Good Visualization](Assignment2_Good_Screenshot.JPG)
+[Good Visualization](Assignment2_Good_Screenshot.JPG)
       
       I think it is a good visualization as 
       a. it is a 2-D image - avoids unnecessary visual distortion and makes comparisons straightforward
@@ -24,7 +24,7 @@
       For the bad one:
       From: https://datavizproject.com/data-type/bar-chart/, row 5 from top, column 3 counting from the left
       https://www.instagram.com/the.visual.agency/
-      [Bad Visualization](Assignment2_Bad_Screenshot.JPG)
+[Bad Visualization](Assignment2_Bad_Screenshot.JPG)
       
       I think it is a bad example of visualization as
       a. It unncessarily made to be a 3-D image - no additional informational value but distortion to the viewer's perception of magnitude and spatial relationships.

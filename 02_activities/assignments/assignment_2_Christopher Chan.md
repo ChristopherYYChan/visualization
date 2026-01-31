@@ -13,7 +13,8 @@
       Your answer...
 
       For the good one: 
-      http://www.datavizdoneright.com/2017/04/mac.html
+      [Good Visualization](Assignment2_Good_Screenshot.JPG)
+      
       I think it is a good visualization as 
       a. it is a 2-D image - avoids unnecessary visual distortion and makes comparisons straightforward
       b. it has a clean layout - avoids unnecessary visual distortion and makes comparisons straightforward
@@ -23,6 +24,8 @@
       For the bad one:
       From: https://datavizproject.com/data-type/bar-chart/, row 5 from top, column 3 counting from the left
       https://www.instagram.com/the.visual.agency/
+      [Bad Visualization](Assignment2_Bad_Screenshot.JPG)
+      
       I think it is a bad example of visualization as
       a. It unncessarily made to be a 3-D image - no additional informational value but distortion to the viewer's perception of magnitude and spatial relationships.
       b. Shadows are found on top of the bars as well as behind the bars, and the magnitude of the bars and shadows behind the bars seems cannot directly matches with the lengths easily - Effective visualization should minimize non-data ink and avoid decorative elements that do not support interpretation, as such “chartjunk” can reduce clarity and cognitive efficiency
